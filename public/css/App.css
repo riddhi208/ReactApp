@@ -1,0 +1,52 @@
+html{
+  font-family: Verdana;
+}
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav{
+  background-color:grey;
+  height: 60px;
+  width: 100%;
+  margin: 0px;
+  display: inline-block;
+}
+
+.logo{
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.login{
+  float: right;
+  margin: 10px;
+  margin-right: 25px;
+  font-size: 22px;
+  padding: 5px;
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
+.nav a:hover{
+  background-color: #f2f2f2;
+  color: #262626;
+  text-decoration: none;
+}
+.nav a:active{
+
+  text-decoration: none;
+}
+
+.nav img:hover{
+  background-color: #f2f2f2;
+  color: #262626;
+}
+
+
+
